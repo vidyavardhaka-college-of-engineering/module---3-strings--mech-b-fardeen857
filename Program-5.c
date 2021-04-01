@@ -25,7 +25,7 @@ int main()
                                //place logic to find the vowel
   }
   }
-  printf("Number of vowels in the string = %d", count);
+  printf("Number of vowels in the string = %d" , count);
 
   return 0;
 }
